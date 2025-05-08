@@ -36,6 +36,6 @@ Para garantir a melhor experiência e compatibilidade com todas as funcionalidad
 
 ## Como acessar
 
-1️. Faça o download do arquivo `dashboard.xlsx` clicando [aqui](./dashboard.xlsx) ou pelo botão de download do repositório.  
-2️. Abra o arquivo no **Microsoft Excel** (versão **2016 ou superior** recomendada).  
+1️. Faça o download do arquivo `dashboard.xlsx` pelo botão de download do repositório
+2️. Abra o arquivo no **Microsoft Excel** (versão **2016 ou superior** recomendada)
 3️. Certifique-se de que as **configurações de segurança para macros** estão habilitadas
