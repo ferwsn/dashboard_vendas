@@ -11,7 +11,7 @@
 		 WHERE ped.cd_cliente = clt.cd_cliente) AS vl_tkm
 	  FROM clientes clt; 
 
-    -- produtos --
+        -- produtos --
 	SELECT prd.cd_produto, 
 	       prd.ds_produto,
 	       prd.tp_categoria,
